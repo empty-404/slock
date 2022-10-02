@@ -5,4 +5,4 @@ First you have to open config.h and change some things that are indicated there.
 Run to compile
 ```sudo make install```
 ## Recomendations
-Proplerly loch your inputs except for slock else it might be possible to kill it!
+Properly lock your inputs except for slock else it might be possible to kill it!
