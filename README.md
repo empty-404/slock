@@ -1,2 +1,6 @@
+#Slock
 ## How to install?
-there is a few things you need to change in config.h then you can sudo make install
+First you have to open config.h and change some things that are indicated there.
+## Now you can Compile!<br>
+Run to compile
+```sudo make install```
